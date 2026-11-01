@@ -1,0 +1,5 @@
+PROJECT: SpendWise AI — Customer Spending Prediction
+ENTRY FILE: app.py
+SAMPLE DATA: data/sample_customers.csv
+RUN: py -m streamlit run app.py
+NOTE: No notebook is included or required.
